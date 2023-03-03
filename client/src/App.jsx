@@ -1,11 +1,11 @@
 import { React } from 'react'
-import './App.css'
+import './index.css'
 
 function App() {
 
   return (
     <>
-    <div>Helloo Guys...!!</div>
+    <div className='font-title text-3xl py-10 font-black text-center bg-gray-200 text-black'>Helloo Guys...!!</div>
     </>
   )
 }
